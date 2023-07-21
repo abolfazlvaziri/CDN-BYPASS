@@ -7,13 +7,13 @@ For example, by placing mail servers behind the cloud, the website's email servi
 So, since the IP of a subdomain is not hidden, it is easy to get the IP address of the main server of the site.
 
 
-- **Features**
+**Features**
 ```
 1. Sub Finder
 2. Find Real IP
 ```
 
-- **Installation & Usage**
+**Installation & Usage**
 ```
 1. sudo git clone https://github.com/###
 2. cd CDN-BYPASS
