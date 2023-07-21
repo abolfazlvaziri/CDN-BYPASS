@@ -1,4 +1,5 @@
 ### CDN BYPASS
+------
 In this tool, we used a method that targets subdomains. In this way, most of the websites prefer to leave the subdomains in the normal state and not hide them because of the problems caused by placing the subdomains behind the cloud.
 
 For example, by placing mail servers behind the cloud, the website's email service faces problems. Of course, this happens if the email service of the host server itself is used. In the audio that is used from Google's mail servers, there is no problem with the site's email service.
