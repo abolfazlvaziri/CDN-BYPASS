@@ -6,8 +6,6 @@ For example, by placing mail servers behind the cloud, the website's email servi
 So, since the IP of a subdomain is not hidden, it is easy to get the IP address of the main server of the site.
 
 
-![[Screenshot at 2023-07-21 15-44-43.jpg]]
-
 - **Features**
 ```
 1. Sub Finder
