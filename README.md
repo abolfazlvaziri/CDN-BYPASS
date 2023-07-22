@@ -15,7 +15,7 @@ So, since the IP of a subdomain is not hidden, it is easy to get the IP address 
 
 **Installation & Usage**
 ```
-1. sudo git clone https://github.com/###
+1. sudo git clone https://github.com/abolfazlvaziri/CDN-BYPASS.git
 2. cd CDN-BYPASS
 3. pip install -r requirements.txt
 4. python3 CDN-BYPASS.py
