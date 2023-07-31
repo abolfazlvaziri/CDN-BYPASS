@@ -6,14 +6,14 @@ For example, by placing mail servers behind the cloud, the website's email servi
 
 So, since the IP of a subdomain is not hidden, it is easy to get the IP address of the main server of the site.
 
-## Video
-<a href="https://www.youtube.com/watch?v=26s7QNEFn14">Youtube</a>
 
 **Features**
 ```
 1. Sub Finder
 2. Find Real IP
 ```
+
+---
 
 **Installation & Usage**
 ```
@@ -24,6 +24,12 @@ So, since the IP of a subdomain is not hidden, it is easy to get the IP address 
 ```
 - Simple & UseFull.
 
+---
+
+## Video
+<a href="https://www.youtube.com/watch?v=26s7QNEFn14">Youtube</a>
+
+---
 
 **Contact To Me**
 - Instagram: https://instagram.com/abolfazlvaziriofficial
