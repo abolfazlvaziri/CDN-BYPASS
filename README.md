@@ -33,4 +33,4 @@ So, since the IP of a subdomain is not hidden, it is easy to get the IP address 
 
 **Contact To Me**
 - Instagram: https://instagram.com/abolfazlvaziriofficial
-- Telegram: https://t.me/abolfazlvaziriofficial
+- Telegram: https://t.me/AVN_COMMUNITY
